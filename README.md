@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Lataksh Sariya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Lataksh+%F0%9F%91%8B;Frontend+Developer+%7C+MERN+Learner;IIT+Dharwad+%E2%9A%A1+EEE+2nd+Year" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=latakshsariyapatidar&label=Profile%20views&color=0e75b6&style=flat" alt="latakshsariyapatidar" /> </p>
-
-- I'm currently doing **B.Tech in Electrical Engineering as IIT Dharwad**
-
-- 🌱 I’m currently learning **MERN stack.**
-
-- 💬 Ask me about **react, mongoDB, Node.js, or something fun**
-
-- 📫 How to reach me **latakshsariya146@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lataksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lataksh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=latakshsariyapatidar&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Frontend_Development-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-MERN_Stack-3ddc84?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=latakshsariyapatidar&show_icons=true&locale=en" alt="latakshsariyapatidar" /></p>
+### 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=latakshsariyapatidar&" alt="latakshsariyapatidar" /></p>
+```javascript
+const lataksh = {
+  name:       "Lataksh Sariya",
+  college:    "IIT Dharwad",
+  degree:     "B.Tech — Electrical & Electronics Engineering (2nd Year)",
+  role:       "Frontend Developer → Full Stack (in progress)",
+  stack:      ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
+  currentlyLearning: "Backend development with Node.js & Express",
+  funFact:    "An EEE student who fell in love with the web 🌐",
+};
+```
+
+---
+
+### 🚀 What I'm Up To
+
+- 🎨 **Crafting UIs** with React & Tailwind CSS — clean, responsive, and performant
+- 🌱 **Learning Backend** — building REST APIs with Node.js, Express & MongoDB
+- 🔗 **Connecting the dots** — slowly becoming a MERN full-stack developer
+- ⚡ **Balancing circuits and code** at IIT Dharwad
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend (My Strong Suit)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+</p>
+
+#### Backend (Currently Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+#### Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,c" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latakshsariyapatidar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latakshsariyapatidar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latakshsariyapatidar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/lataksh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lataksh%20Sariya-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:latakshsariya146@gmail.com">
+    <img src="https://img.shields.io/badge/Email-latakshsariya146@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+> 💬 Feel free to ask me about **React, UI/UX, MongoDB, or anything web!**
