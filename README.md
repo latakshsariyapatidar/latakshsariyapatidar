@@ -39,7 +39,7 @@ const lataksh = {
 
 #### Frontend (My Strong Suit)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,figma" />
 </p>
 
 #### Backend (Currently Learning)
