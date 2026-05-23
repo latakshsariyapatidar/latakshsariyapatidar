@@ -49,7 +49,7 @@ const lataksh = {
 
 #### Other Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,c" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,c,cpp,docker" />
 </p>
 
 ---
