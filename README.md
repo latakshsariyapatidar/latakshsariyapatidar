@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=latakshsariyapatidar&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Frontend_Development-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/focus-Full_Stack_Development-58a6ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-MERN_Stack-3ddc84?style=for-the-badge" />
 </p>
 
